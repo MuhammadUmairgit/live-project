@@ -1,7 +1,7 @@
 import React from "react";
 import { useMutation, useQuery } from "react-query";
 import { useNavigate } from "react-router-dom";
-import { Button, Col, Row, Table, Space, message, Modal } from "antd";
+import { Button, Space, message, Modal } from "antd";
 import { ExclamationCircleOutlined } from "@ant-design/icons";
 import { categoryService } from "../../Services/CategoryService";
 
