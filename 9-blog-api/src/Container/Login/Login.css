@@ -1,0 +1,13 @@
+.custom-login-container {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 100px;
+  }
+  
+  .custom-heading-login {
+    text-align: center;
+  }
+  
+  .sign-up-btn{
+    margin-left: 20px;
+  }

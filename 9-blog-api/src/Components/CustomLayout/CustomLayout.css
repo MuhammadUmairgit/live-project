@@ -1,0 +1,32 @@
+.custom-layout-container {
+    
+    min-height: 100vh;
+      
+    }
+    
+  
+    .custom-layout-container .custom-main-content {
+      margin: 0 16px;
+    }
+    .custom-layout-container .custom-inner-content {
+      padding: 24px;
+      min-height: 360px;
+    }
+    .custom-layout-container .custom-bread-crumb-container {
+      margin: 16px 0;
+    }
+    .custom-layout-container .main-sidebar-heading {
+      color: white;
+      text-align: center;
+    }
+    .custom-layout-container #components-layout-demo-side .logo {
+      height: 32px;
+      margin: 16px;
+      background: rgba(255, 255, 255, 0.3);
+    }
+    .custom-layout-container .site-layout {
+      min-height: 100vh;
+    }
+    .custom-layout-container .custom-main-layout-footer {
+      text-align: center;
+    }
